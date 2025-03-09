@@ -1,6 +1,6 @@
-import {HomeDashboard} from '../Pages/HomeDashboard'
+//import {HomeDashboard} from '../Pages/HomeDashboard'
 import {OrangeHRm} from "../Pages/testlogin"
-import {Adminpage } from "../Pages/admin"
+//import {Adminpage } from "../Pages/admin"
 
 const loginpage = new OrangeHRm();
 //onst homeDashboard = new HomeDashboard();
